@@ -1,6 +1,0 @@
-black
-<<<<<<< HEAD
-red
-=======
-pink
->>>>>>> git remote set-url origin <GITHUB_URL>
