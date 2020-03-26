@@ -3,4 +3,4 @@ black
 red
 =======
 pink
->>>>>>> 33f093afb822180b56de0124192762a2cadb028c
+>>>>>>> git remote set-url origin <GITHUB_URL>
