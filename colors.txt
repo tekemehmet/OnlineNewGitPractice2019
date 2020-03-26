@@ -1,3 +1,4 @@
 white
 black
 red
+yellow
